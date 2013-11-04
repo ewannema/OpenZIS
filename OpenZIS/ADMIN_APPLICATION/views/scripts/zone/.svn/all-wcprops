@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/1583/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/zone
+END
+navigation.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mcgrawhill/!svn/ver/1583/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/zone/navigation.phtml
+END
+zonemessages.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mcgrawhill/!svn/ver/1579/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/zone/zonemessages.phtml
+END
+xmlmessage.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mcgrawhill/!svn/ver/1456/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/zone/xmlmessage.phtml
+END
+ajaxsuccessjson.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/zone/ajaxsuccessjson.phtml
+END
+zoneinfo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mcgrawhill/!svn/ver/1004/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/zone/zoneinfo.phtml
+END
+zonelist.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/zone/zonelist.phtml
+END

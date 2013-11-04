@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/1582/trunk/OpenZIS/ADMIN_APPLICATION/controllers
+END
+GrouppermissionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mcgrawhill/!svn/ver/1326/trunk/OpenZIS/ADMIN_APPLICATION/controllers/GrouppermissionController.php
+END
+ZitController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mcgrawhill/!svn/ver/1009/trunk/OpenZIS/ADMIN_APPLICATION/controllers/ZitController.php
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mcgrawhill/!svn/ver/529/trunk/OpenZIS/ADMIN_APPLICATION/controllers/IndexController.php
+END
+ErrorController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/controllers/ErrorController.php
+END
+PushControlller.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/controllers/PushControlller.php
+END
+ZoneController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mcgrawhill/!svn/ver/1582/trunk/OpenZIS/ADMIN_APPLICATION/controllers/ZoneController.php
+END
+AgentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mcgrawhill/!svn/ver/1318/trunk/OpenZIS/ADMIN_APPLICATION/controllers/AgentController.php
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mcgrawhill/!svn/ver/497/trunk/OpenZIS/ADMIN_APPLICATION/controllers/UserController.php
+END
+AgentaccessController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mcgrawhill/!svn/ver/858/trunk/OpenZIS/ADMIN_APPLICATION/controllers/AgentaccessController.php
+END
+DataobjectController.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/controllers/DataobjectController.php
+END
+ContextController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/controllers/ContextController.php
+END

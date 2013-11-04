@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mcgrawhill/!svn/ver/2718/trunk/OpenZIS/ADMIN_APPLICATION/models
+END
+ZitLogEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mcgrawhill/!svn/ver/1476/trunk/OpenZIS/ADMIN_APPLICATION/models/ZitLogEntry.php
+END
+Agent.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/2694/trunk/OpenZIS/ADMIN_APPLICATION/models/Agent.php
+END
+ProvideObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mcgrawhill/!svn/ver/1326/trunk/OpenZIS/ADMIN_APPLICATION/models/ProvideObject.php
+END
+DataObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mcgrawhill/!svn/ver/2697/trunk/OpenZIS/ADMIN_APPLICATION/models/DataObject.php
+END
+Utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/1326/trunk/OpenZIS/ADMIN_APPLICATION/models/Utility.php
+END
+GroupPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mcgrawhill/!svn/ver/2697/trunk/OpenZIS/ADMIN_APPLICATION/models/GroupPermission.php
+END
+Zit.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mcgrawhill/!svn/ver/2718/trunk/OpenZIS/ADMIN_APPLICATION/models/Zit.php
+END
+SubscribeObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mcgrawhill/!svn/ver/1326/trunk/OpenZIS/ADMIN_APPLICATION/models/SubscribeObject.php
+END
+ZitLogEntry_Agent.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mcgrawhill/!svn/ver/1476/trunk/OpenZIS/ADMIN_APPLICATION/models/ZitLogEntry_Agent.php
+END
+Zone.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/3111/trunk/OpenZIS/ADMIN_APPLICATION/models/Zone.php
+END
+DataObjectGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mcgrawhill/!svn/ver/2697/trunk/OpenZIS/ADMIN_APPLICATION/models/DataObjectGroup.php
+END
+ZitAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mcgrawhill/!svn/ver/2698/trunk/OpenZIS/ADMIN_APPLICATION/models/ZitAdmin.php
+END
+ZitErrorLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/models/ZitErrorLog.php
+END
+DataElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mcgrawhill/!svn/ver/2696/trunk/OpenZIS/ADMIN_APPLICATION/models/DataElement.php
+END
+GroupPermissionItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mcgrawhill/!svn/ver/2698/trunk/OpenZIS/ADMIN_APPLICATION/models/GroupPermissionItem.php
+END
+Context.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/2695/trunk/OpenZIS/ADMIN_APPLICATION/models/Context.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/1407/trunk/OpenZIS/ADMIN_APPLICATION/models/Version.php
+END
+Permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mcgrawhill/!svn/ver/1415/trunk/OpenZIS/ADMIN_APPLICATION/models/Permission.php
+END

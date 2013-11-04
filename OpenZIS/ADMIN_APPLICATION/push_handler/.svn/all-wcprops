@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mcgrawhill/!svn/ver/1312/trunk/OpenZIS/ADMIN_APPLICATION/push_handler
+END
+Agent.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/push_handler/Agent.php
+END
+XmlHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/push_handler/XmlHelper.php
+END
+PushMessageHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/push_handler/PushMessageHandler.php
+END
+Utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/push_handler/Utility.php
+END
+OpenZisPushHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mcgrawhill/!svn/ver/1312/trunk/OpenZIS/ADMIN_APPLICATION/push_handler/OpenZisPushHandler.php
+END
+PushThread.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/push_handler/PushThread.php
+END
+ZitLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/push_handler/ZitLog.php
+END

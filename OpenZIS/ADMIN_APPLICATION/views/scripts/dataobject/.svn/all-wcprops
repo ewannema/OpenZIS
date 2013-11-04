@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mcgrawhill/!svn/ver/745/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/dataobject
+END
+navigation.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mcgrawhill/!svn/ver/745/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/dataobject/navigation.phtml
+END
+ajaxsuccessjson.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/dataobject/ajaxsuccessjson.phtml
+END
+filtersuccessjson.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/dataobject/filtersuccessjson.phtml
+END
+dataobjectgrouplist.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ADMIN_APPLICATION/views/scripts/dataobject/dataobjectgrouplist.phtml
+END

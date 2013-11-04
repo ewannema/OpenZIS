@@ -9,8 +9,8 @@ Refer to documents/COPYING for the full licence agreement
 
 */
 
-
 ini_set('memory_limit', -1);
+
 define('DBSCHEMA', 'openzis');
 
 set_include_path('../../ZendFramework/library' . PATH_SEPARATOR . get_include_path());
@@ -72,15 +72,16 @@ try {
 	$db = ZitDBAdapter::getDBAdapter();
 	Zend_Registry::set('my_db', $db);
 } catch (Zend_Exception $e) {
-	GeneralError::systemError($xml);
+	exit("unable to create DBAdapter");
 }
+
 
 try {
 	$db2 = ZitDBAdapter2::getDBAdapter();
 	Zend_Registry::set('my_db2', $db2);
 
 } catch (Zend_Exception $e) {
-	GeneralError::systemError($xml);
+	exit("unable to create DBAdapter 2");
 }
 
 switch(DB_TYPE) {
