@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices
+END
+Lesson.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/Lesson.xsd
+END
+AssessmentItem.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/AssessmentItem.xsd
+END
+Assessment.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/Assessment.xsd
+END
+LearningResource.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/LearningResource.xsd
+END
+Assignment.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/Assignment.xsd
+END
+AssessmentSection.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/AssessmentSection.xsd
+END
+CurriculumStructure.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/CurriculumStructure.xsd
+END
+Activity.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/Activity.xsd
+END
+StudentParticipation.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/StudentParticipation.xsd
+END
+AssessmentSubTest.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/AssessmentSubTest.xsd
+END
+LearningStandardDocument.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/LearningStandardDocument.xsd
+END
+LearningStandardItem.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/LearningStandardItem.xsd
+END
+StudentPlacement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/StudentPlacement.xsd
+END
+StudentResultSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/InstructionalServices/StudentResultSet.xsd
+END

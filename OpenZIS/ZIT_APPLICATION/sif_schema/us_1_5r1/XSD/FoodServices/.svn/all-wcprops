@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices
+END
+FiscalYear.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FiscalYear.xsd
+END
+FoodserviceTransactionDetails.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceTransactionDetails.xsd
+END
+FinancialAccountAccountingPeriodLocationInfo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FinancialAccountAccountingPeriodLocationInfo.xsd
+END
+StudentMeal.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/StudentMeal.xsd
+END
+FoodserviceItemUnit.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceItemUnit.xsd
+END
+FoodserviceItem.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceItem.xsd
+END
+FoodserviceTransactionPayMethod.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceTransactionPayMethod.xsd
+END
+FinancialTransaction.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FinancialTransaction.xsd
+END
+AccountingPeriod.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/AccountingPeriod.xsd
+END
+FoodserviceSales.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceSales.xsd
+END
+FinancialAccount.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FinancialAccount.xsd
+END
+FoodserviceItemPortion.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceItemPortion.xsd
+END
+StaffMeal.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/StaffMeal.xsd
+END
+FinancialIncomeStatement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FinancialIncomeStatement.xsd
+END
+FoodserviceReimbursementRates.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceReimbursementRates.xsd
+END
+FinancialClass.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FinancialClass.xsd
+END
+FoodserviceMealPrices.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceMealPrices.xsd
+END
+FoodserviceTransaction.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceTransaction.xsd
+END
+FoodserviceItemSales.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/FoodServices/FoodserviceItemSales.xsd
+END

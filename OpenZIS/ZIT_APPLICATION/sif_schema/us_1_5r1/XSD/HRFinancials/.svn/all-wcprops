@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials
+END
+EmployeeWage.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeeWage.xsd
+END
+EmployeePersonal.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeePersonal.xsd
+END
+LocationInfo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/LocationInfo.xsd
+END
+ProfDevActivities.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/ProfDevActivities.xsd
+END
+W4.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/W4.xsd
+END
+StaffAssignment.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/StaffAssignment.xsd
+END
+Purchasing.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/Purchasing.xsd
+END
+FinBudget.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/FinBudget.xsd
+END
+ActivityProvider.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/ActivityProvider.xsd
+END
+EmployeeAssignment.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeeAssignment.xsd
+END
+EmployeeHR.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeeHR.xsd
+END
+VendorInfo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/VendorInfo.xsd
+END
+EmployeeRecertification.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeeRecertification.xsd
+END
+EmployeeCredit.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeeCredit.xsd
+END
+EmployeeCredential.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeeCredential.xsd
+END
+TimeWorked.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/TimeWorked.xsd
+END
+FinAnnual.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/FinAnnual.xsd
+END
+EmployeePicture.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeePicture.xsd
+END
+Payment.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/Payment.xsd
+END
+EmployeeContract.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/EmployeeContract.xsd
+END
+Billing.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/HRFinancials/Billing.xsd
+END

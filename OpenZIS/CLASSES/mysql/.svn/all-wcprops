@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mcgrawhill/!svn/ver/2703/trunk/OpenZIS/CLASSES/mysql
+END
+AgentPermissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentPermissions.php
+END
+ZisServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/ZisServer.php
+END
+Zones.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/Zones.php
+END
+AgentZoneContext.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentZoneContext.php
+END
+DataObjectGroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/DataObjectGroups.php
+END
+EventActions.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/EventActions.php
+END
+ProvisionDataObjectAgentVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/ProvisionDataObjectAgentVW.php
+END
+Contexts.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/Contexts.php
+END
+GetFirstMessageVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/GetFirstMessageVW.php
+END
+Requests.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/Requests.php
+END
+AgentRegistered.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentRegistered.php
+END
+AdminLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2685/trunk/OpenZIS/CLASSES/mysql/AdminLevel.php
+END
+AgentResponder.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentResponder.php
+END
+Agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mcgrawhill/!svn/ver/2685/trunk/OpenZIS/CLASSES/mysql/Agents.php
+END
+AgentPermisionDataObjectVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentPermisionDataObjectVW.php
+END
+DataObjects.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/DataObjects.php
+END
+DataElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/DataElement.php
+END
+RequestAgentVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/RequestAgentVW.php
+END
+EventStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/EventStatus.php
+END
+AgentModes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2685/trunk/OpenZIS/CLASSES/mysql/AgentModes.php
+END
+AgentFilters.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mcgrawhill/!svn/ver/2685/trunk/OpenZIS/CLASSES/mysql/AgentFilters.php
+END
+AgentProvisions.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentProvisions.php
+END
+ErrorLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/ErrorLog.php
+END
+DataObjectElements.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/DataObjectElements.php
+END
+AgentResponderDataObjectAgentVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentResponderDataObjectAgentVW.php
+END
+AgentRequester.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentRequester.php
+END
+Events.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/Events.php
+END
+GroupPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/GroupPermission.php
+END
+ZitLogArch.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/ZitLogArch.php
+END
+Versions.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/Versions.php
+END
+ZitLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/ZitLog.php
+END
+SifAuthenticationLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/SifAuthenticationLevel.php
+END
+MessageQueues.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/MessageQueues.php
+END
+PushHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/PushHandler.php
+END
+ZoneAuthenticationType.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/ZoneAuthenticationType.php
+END
+Responses.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/Responses.php
+END
+GroupPermissionItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/GroupPermissionItem.php
+END
+ZitAdminDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2703/trunk/OpenZIS/CLASSES/mysql/ZitAdminDB.php
+END
+ProvisionDataObjectVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/ProvisionDataObjectVW.php
+END
+AgentSubscriptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/AgentSubscriptions.php
+END
+DataElementChild.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/2686/trunk/OpenZIS/CLASSES/mysql/DataElementChild.php
+END
+LogMessageType.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/LogMessageType.php
+END
+SifMessageType.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mcgrawhill/!svn/ver/2687/trunk/OpenZIS/CLASSES/mysql/SifMessageType.php
+END

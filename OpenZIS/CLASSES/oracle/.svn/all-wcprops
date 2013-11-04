@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle
+END
+AgentPermissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentPermissions.php
+END
+ZisServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/ZisServer.php
+END
+Zones.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/Zones.php
+END
+AgentZoneContext.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentZoneContext.php
+END
+DataObjectGroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/DataObjectGroups.php
+END
+EventActions.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/EventActions.php
+END
+ProvisionDataObjectAgentVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/ProvisionDataObjectAgentVW.php
+END
+Contexts.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/Contexts.php
+END
+GetFirstMessageVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/GetFirstMessageVW.php
+END
+Requests.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/Requests.php
+END
+AgentRegistered.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentRegistered.php
+END
+AdminLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AdminLevel.php
+END
+AgentResponder.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentResponder.php
+END
+Agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/Agents.php
+END
+AgentPermisionDataObjectVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentPermisionDataObjectVW.php
+END
+DataObjects.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/DataObjects.php
+END
+DataElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/DataElement.php
+END
+RequestAgentVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/RequestAgentVW.php
+END
+EventStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/EventStatus.php
+END
+AgentModes.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentModes.php
+END
+AgentFilters.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentFilters.php
+END
+AgentProvisions.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentProvisions.php
+END
+ErrorLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/ErrorLog.php
+END
+DataObjectElements.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/DataObjectElements.php
+END
+AgentResponderDataObjectAgentVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentResponderDataObjectAgentVW.php
+END
+AgentRequester.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentRequester.php
+END
+Events.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/Events.php
+END
+GroupPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/GroupPermission.php
+END
+ZitLogArch.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/ZitLogArch.php
+END
+Versions.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/Versions.php
+END
+ZitLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/ZitLog.php
+END
+SifAuthenticationLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/SifAuthenticationLevel.php
+END
+PushHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/PushHandler.php
+END
+ZoneAuthenticationType.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/ZoneAuthenticationType.php
+END
+Responses.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/Responses.php
+END
+GroupPermissionItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/GroupPermissionItem.php
+END
+ZitAdminDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/ZitAdminDB.php
+END
+ProvisionDataObjectVW.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/ProvisionDataObjectVW.php
+END
+AgentSubscriptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/AgentSubscriptions.php
+END
+DataElementChild.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/DataElementChild.php
+END
+LogMessageType.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/LogMessageType.php
+END
+SifMessageType.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2684/trunk/OpenZIS/CLASSES/oracle/SifMessageType.php
+END

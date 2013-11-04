@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/DataWarehouse
+END
+AggregateStatisticInfo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/DataWarehouse/AggregateStatisticInfo.xsd
+END
+AggregateCharacteristicInfo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/DataWarehouse/AggregateCharacteristicInfo.xsd
+END
+AggregateStatisticFact.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mcgrawhill/!svn/ver/2/trunk/OpenZIS/ZIT_APPLICATION/sif_schema/us_1_5r1/XSD/DataWarehouse/AggregateStatisticFact.xsd
+END

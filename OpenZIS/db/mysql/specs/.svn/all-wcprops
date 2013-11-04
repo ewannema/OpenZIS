@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mcgrawhill/!svn/ver/2699/trunk/OpenZIS/db/mysql/specs
+END
+sif_uk_13.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2699/trunk/OpenZIS/db/mysql/specs/sif_uk_13.sql
+END
+sif_au_11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2699/trunk/OpenZIS/db/mysql/specs/sif_au_11.sql
+END
+sif_us_24.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2699/trunk/OpenZIS/db/mysql/specs/sif_us_24.sql
+END
+sif_us_25.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mcgrawhill/!svn/ver/2699/trunk/OpenZIS/db/mysql/specs/sif_us_25.sql
+END

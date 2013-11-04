@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mcgrawhill/!svn/ver/3003/trunk/OpenZIS/ZIT_APPLICATION/main_lib
+END
+SifProcessRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mcgrawhill/!svn/ver/3193/trunk/OpenZIS/ZIT_APPLICATION/main_lib/SifProcessRequest.php
+END
+Agent.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mcgrawhill/!svn/ver/3192/trunk/OpenZIS/ZIT_APPLICATION/main_lib/Agent.php
+END
+DataObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mcgrawhill/!svn/ver/3109/trunk/OpenZIS/ZIT_APPLICATION/main_lib/DataObject.php
+END
+XmlHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mcgrawhill/!svn/ver/1286/trunk/OpenZIS/ZIT_APPLICATION/main_lib/XmlHelper.php
+END
+Utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/1399/trunk/OpenZIS/ZIT_APPLICATION/main_lib/Utility.php
+END
+SifLogEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mcgrawhill/!svn/ver/1000/trunk/OpenZIS/ZIT_APPLICATION/main_lib/SifLogEntry.php
+END
+Zit.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mcgrawhill/!svn/ver/1628/trunk/OpenZIS/ZIT_APPLICATION/main_lib/Zit.php
+END
+ZitLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mcgrawhill/!svn/ver/2705/trunk/OpenZIS/ZIT_APPLICATION/main_lib/ZitLog.php
+END
+FilterUtility.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mcgrawhill/!svn/ver/2602/trunk/OpenZIS/ZIT_APPLICATION/main_lib/FilterUtility.php
+END
+SifProcessRequest_2.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mcgrawhill/!svn/ver/1902/trunk/OpenZIS/ZIT_APPLICATION/main_lib/SifProcessRequest_2.php
+END
+MessageObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mcgrawhill/!svn/ver/2748/trunk/OpenZIS/ZIT_APPLICATION/main_lib/MessageObject.php
+END
+Zone.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mcgrawhill/!svn/ver/2008/trunk/OpenZIS/ZIT_APPLICATION/main_lib/Zone.php
+END
+RequestObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mcgrawhill/!svn/ver/2723/trunk/OpenZIS/ZIT_APPLICATION/main_lib/RequestObject.php
+END
+Context.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mcgrawhill/!svn/ver/544/trunk/OpenZIS/ZIT_APPLICATION/main_lib/Context.php
+END
+ResponseObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mcgrawhill/!svn/ver/2675/trunk/OpenZIS/ZIT_APPLICATION/main_lib/ResponseObject.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mcgrawhill/!svn/ver/1925/trunk/OpenZIS/ZIT_APPLICATION/main_lib/Version.php
+END
+GeneralError.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mcgrawhill/!svn/ver/2752/trunk/OpenZIS/ZIT_APPLICATION/main_lib/GeneralError.php
+END

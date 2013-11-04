@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mcgrawhill/!svn/ver/2720/trunk/OpenZIS/db/mysql
+END
+update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mcgrawhill/!svn/ver/2720/trunk/OpenZIS/db/mysql/update.sql
+END
+update_uk1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mcgrawhill/!svn/ver/2699/trunk/OpenZIS/db/mysql/update_uk1.sql
+END
+events.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mcgrawhill/!svn/ver/3113/trunk/OpenZIS/db/mysql/events.sql
+END
+filters.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mcgrawhill/!svn/ver/2699/trunk/OpenZIS/db/mysql/filters.sql
+END
+ZISDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mcgrawhill/!svn/ver/2703/trunk/OpenZIS/db/mysql/ZISDB.sql
+END
