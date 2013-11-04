@@ -190,6 +190,10 @@ $vendorVersion  	= $config->vendor->version;
 $vendorProduct  	= $config->vendor->product;
 $zoneUrlIndex       = $config->zone->url->location;
 
+$tz = isset($config->application->root->date_timezone) ? $config->application->root->date_timezone : 'America/New_York';
+
+date_default_timezone_set($tz);
+
 define('CODELEVEL',  $codeLevel);
 define('VENDOR_NAME',$vendorName);
 define('VENDOR_VERSION',$vendorVersion);
@@ -203,6 +207,11 @@ define('SERVER_SOURCE_ID', Zit::getSourceId());
 **  W : Validate and Pass Message and Log Error
 */  
 define('SIF_VALIDATE', 'W');
+
+/* The line below will capture ever message that comes in and post it to the ErrorLog.
+** This is useful in debugging at time.
+*/
+## ZitLog::writeToErrorLog("[XML Sent]", "Request Xml:\n$xml", "IndexPHP", 0);
 
 
 //global $USERNAME;
@@ -239,10 +248,4 @@ try {
 	ZitLog::writeToErrorLog("[Main Loop]", "Request Xml:\n$messageObject->xmlStr \n\n Errors:$e->getTraceAsString()", "Main Loop", $_SESSION['ZONE_ID']);
 	GeneralError::systemError($messageObject->xmlStr);
 }
-
-
-
-
-
-
 
