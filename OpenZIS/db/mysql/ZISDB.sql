@@ -1001,8 +1001,8 @@ CREATE TABLE  `event` (
   PRIMARY KEY (`EVENT_ID`)
 ) ENGINE=InnoDB AUTO_INCREMENT=45 DEFAULT CHARSET=utf8;
 
-DROP TABLE IF EXISTS `event_archieve`;
-CREATE TABLE  `event` (
+DROP TABLE IF EXISTS `event_archive`;
+CREATE TABLE  `event_archive` (
   `EVENT_ID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `EVENT_TIMESTAMP` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
   `AGENT_ID_SENDER` int(10) unsigned NOT NULL DEFAULT '0',
@@ -1111,8 +1111,8 @@ CREATE TABLE  `request` (
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
 
 
-DROP TABLE IF EXISTS `request_archieve`;
-CREATE TABLE  `request` (
+DROP TABLE IF EXISTS `request_archive`;
+CREATE TABLE  `request_archive` (
   `REQUEST_ID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `REQUEST_MSG_ID` varchar(255) NOT NULL DEFAULT '',
   `REQUEST_DATA` mediumtext NOT NULL,
@@ -1147,8 +1147,8 @@ CREATE TABLE  `response` (
   PRIMARY KEY (`RESPONSE_ID`)
 ) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8;
 
-DROP TABLE IF EXISTS `response_archieve`;
-CREATE TABLE  `response` (
+DROP TABLE IF EXISTS `response_archive`;
+CREATE TABLE  `response_archive` (
   `RESPONSE_ID` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `REQUEST_MSG_ID` varchar(255) NOT NULL DEFAULT '',
   `RESPONSE_DATA` mediumtext NOT NULL,
