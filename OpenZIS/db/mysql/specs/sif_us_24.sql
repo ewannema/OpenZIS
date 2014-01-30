@@ -1,7 +1,7 @@
 
-
-INSERT INTO `versions` (`VERSION_ID`,`VERSION_DESC`,`VERSION_DIRECTORY`,`SCHEMA_DIRECTORY`,`VERSION_NUM`,`VERSION_NAMESPACE`,`ACTIVE`) VALUES 
- (124,'US 2.4','us_2_4_lib/','../ZIT_APPLICATION/sif_schema/us_2_4/SIF_Message.xsd.xml','2.4','http://www.sifinfo.org/infrastructure/2.x',1);
+# This is already inserted in the ZISDB.sql file
+#INSERT INTO `versions` (`VERSION_ID`,`VERSION_DESC`,`VERSION_DIRECTORY`,`SCHEMA_DIRECTORY`,`VERSION_NUM`,`VERSION_NAMESPACE`,`ACTIVE`) VALUES 
+# (124,'US 2.4','us_2_4_lib/','../ZIT_APPLICATION/sif_schema/us_2_4/SIF_Message.xsd.xml','2.4','http://www.sifinfo.org/infrastructure/2.x',1);
 
 INSERT INTO `data_object_group` (`GROUP_ID`,`GROUP_DESC`,`VERSION_ID`) VALUES 
  (12400,'Assessment Working Group',124),
