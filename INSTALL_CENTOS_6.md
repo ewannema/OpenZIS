@@ -66,6 +66,7 @@ code base. I am continuing to test.
         4. exit
     9. Configure Apache to Serve the Application
         1. Add the following to /etc/httpd/conf.d/openzis.conf
+```
 <VirtualHost *:80>
   ServerName openzis.localdomain
   DocumentRoot /var/www/OpenZIS/OpenZIS/
@@ -82,6 +83,7 @@ code base. I am continuing to test.
     Options Indexes FollowSymlinks
   </Directory>
 </VirtualHost>
+```
 	     2. service httpd restart
         2. Configure Directory Override Files
             1. cd /var/www/OpenZIS/OpenZIS/ZIT_SERVER
