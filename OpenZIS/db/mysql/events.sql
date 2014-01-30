@@ -16,7 +16,7 @@ DROP EVENT IF EXISTS clearmessagequeue;
 CREATE EVENT clearmessagequeue
     ON SCHEDULE AT CURRENT_TIMESTAMP + INTERVAL 1 MINUTE
     DO
-      delete from ``messagequeue` where status_id = 3;
+      delete from `messagequeue` where status_id = 3;
 	
 
 DROP EVENT IF EXISTS `clearerrorlog`;
