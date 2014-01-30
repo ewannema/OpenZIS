@@ -49,16 +49,15 @@ code base. I am continuing to test.
         4. GRANT all on openzis.* to 'openzis';
         5. FLUSH PRIVILEGES;
         6. exit
-        7. mysql openzis -u root -peducation < db/mysql/ZISDB.sql
-        8. mysql openzis -u root -peducation < db/mysql/update.sql
-        9. mysql openzis -u root -peducation < db/mysql/update_uk1.sql
-        10. mysql openzis -u root -peducation < db/mysql/events.sql
-        11. mysql openzis -u root -peducation < db/mysql/filters.sql
-        12. mysql openzis -u root -peducation < db/mysql/events.sql
-        13. mysql openzis -u root -peducation < sif_au_11.sql
-        14. mysql openzis -u root -peducation < sif_uk_13.sql
-        15. mysql openzis -u root -peducation < sif_us_24.sql
-        16. mysql openzis -u root -peducation < sif_us_25.sql
+        7. mysql openzis -u root -peducation < OpenZIS/db/mysql/ZISDB.sql
+        8. mysql openzis -u root -peducation < OpenZIS/db/mysql/update.sql
+        9. mysql openzis -u root -peducation < OpenZIS/db/mysql/update_uk1.sql
+        10. mysql openzis -u root -peducation < OpenZIS/db/mysql/events.sql
+        11. mysql openzis -u root -peducation < OpenZIS/db/mysql/filters.sql
+        13. mysql openzis -u root -peducation < OpenZIS/db/mysql/specs/sif_au_11.sql
+        14. mysql openzis -u root -peducation < OpenZIS/db/mysql/specs/sif_uk_13.sql
+        15. mysql openzis -u root -peducation < OpenZIS/db/mysql/specs/sif_us_24.sql
+        16. mysql openzis -u root -peducation < OpenZIS/db/mysql/specs/sif_us_25.sql
     8. Update the admin and zis URLs
         1. mysql openzis -u openzis -peducation
         2. UPDATE zit_server set ADMIN_URL='http://openzis.localdomain/admin';
@@ -88,7 +87,7 @@ code base. I am continuing to test.
         2. Configure Directory Override Files
             1. cd /var/www/OpenZIS/OpenZIS/ZIT_SERVER
             2. mv htaccess.txt .htaccess
-            3. /var/www/OpenZIS/OpenZIS/ADMIN_SERVER
+            3. cd /var/www/OpenZIS/OpenZIS/ADMIN_SERVER
             4. mv htaccess.txt .htaccess
         3. Allow HTTP through the firewall
             1. iptables -I INPUT 5 -m state --state NEW -p TCP --dport 80 -j ACCEPT
